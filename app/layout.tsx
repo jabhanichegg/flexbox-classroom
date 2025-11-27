@@ -5,11 +5,11 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
+  title: 'Flexbox Classroom',
   description: 'Created with v0',
   generator: 'v0.app',
   icons: {
-    icon: '/icon.svg',
+    icon: '/chegg-logo.webp',
   },
 }
 
